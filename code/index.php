@@ -10,6 +10,7 @@
         <li><a href="1.php">[task1][a,b]</a></li>
         <li><a href="2a.php">[task2][a]</a></li>
         <li><a href="2b_input.php">[task2][b]</a></li>
+        <li><a href="2c_input.php">[task2][c]</a></li>
     </ul>
 </body>
 </html>
